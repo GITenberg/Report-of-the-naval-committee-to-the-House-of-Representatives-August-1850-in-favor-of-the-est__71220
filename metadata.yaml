@@ -1,0 +1,31 @@
+_repo: Report-of-the-naval-committee-to-the-House-of-Representatives-August-1850-in-favor-of-the-est__71220
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Stanton, Fred. P.
+    gutenberg_agent_id: '56127'
+    url: http://www.gutenberg.org/2009/agents/56127
+description: ''
+gutenberg_issued: '2023-07-18'
+identifiers:
+  gutenberg: '71220'
+language: en
+pgterms:marc905: 20070114112101stanton
+pgterms:marc906: '1850'
+pgterms:marc907: US
+production_note: Adrian Mastronardi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bGideon & Co., $c1850.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Report of the naval committee to the House of Representatives, August, 1850,
+  in favor of the establishment of a line of mail steamships to the western coast
+  of Africa, and thence via the Mediterranean to London; designed to promote the emigration
+  of free persons of color from the United States to Liberia: also to increase the
+  steam navy, and to extend the commerce of the United States. : $b With an appendix
+  added by the American Colonization Society.'
+url: http://www.gutenberg.org/ebooks/71220
