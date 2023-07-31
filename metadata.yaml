@@ -1,11 +1,16 @@
 _repo: Report-of-the-naval-committee-to-the-House-of-Representatives-August-1850-in-favor-of-the-est__71220
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71220-h/images/cover.jpg
 creator:
   editor:
     agent_name: Stanton, Fred. P.
     gutenberg_agent_id: '56127'
     url: http://www.gutenberg.org/2009/agents/56127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71220#Report-of-the-naval-committee-to-the-House-of-Representatives-August-1850-in-favor-of-the-est_
 gutenberg_issued: '2023-07-18'
 identifiers:
   gutenberg: '71220'
